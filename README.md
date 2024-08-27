@@ -1,1 +1,1 @@
-A TO-DO LIST APP With the help of HTML, CSS & JS
+Simple TO-DO List Page using Html, Css and Javascript
